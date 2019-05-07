@@ -1,0 +1,8 @@
+<versions>
+	<version>
+		<nom> 1.12 </nom>
+		<desc> Correction des erreurs </desc>
+		<url> github.com/CoBomp </url>
+		<stable> true <stable>
+	</version>
+</versions>
