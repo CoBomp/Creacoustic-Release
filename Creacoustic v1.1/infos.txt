@@ -1,4 +1,0 @@
-Nouvelle ligne de commande pour demarrer l'application 
-
-cd Desktop
-java -jar Creacoustic_1-1.jar -ip 192.168.10.144 -user creacoustic -userPassword 2R21i73g.6e
